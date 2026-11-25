@@ -1,0 +1,58 @@
+thr   hit_rate  false_hits  total_hits
+0.50      63%          12          50
+0.55      62%           7          44
+0.60      50%           2          32
+0.65      40%           2          26
+0.70      30%           1          19
+0.75      25%           0          15
+0.80      15%           0           9
+0.85       7%           0           4
+0.90       2%           0           1
+0.95       0%           0           0
+
+--- Problems at threshold 0.75 ---
+MISSED     0.33  Where is my package right now?
+MISSED     0.54  mera order kahan hai?
+MISSED     0.59  How many days until my order arrives?
+MISSED     0.41  delivery mein kitne din lagte hain?
+MISSED     0.71  Can I send back something I bought?
+MISSED     0.71  return policy kya hai?
+MISSED     0.71  refund kab milega?
+MISSED     0.66  Can I pay when the parcel arrives?
+MISSED     0.25  kya COD available hai?
+MISSED     0.68  Which ways can I pay?
+MISSED     0.66  payment kaise kar sakte hain?
+MISSED     0.59  Money got cut but order failed
+MISSED     0.60  payment fail ho gaya par paisa kat gaya
+MISSED     0.48  Need to update where it's being shipped
+MISSED     0.63  delivery address kaise badlun?
+MISSED     0.39  Where do I enter a promo code?
+MISSED     0.62  Do I have to pay shipping?
+MISSED     0.57  I need a bigger size, can I swap it?
+MISSED     0.55  size change karna hai, exchange ho sakta hai?
+MISSED     0.64  The item arrived broken
+MISSED     0.27  product toota hua aaya hai
+MISSED     0.59  They sent me a different product than I ordered
+MISSED     0.28  galat product aa gaya
+MISSED     0.59  How can I talk to someone from support?
+MISSED     0.51  customer care se baat kaise karun?
+MISSED     0.44  How do I register on the app?
+MISSED     0.53  naya account kaise banau?
+MISSED     0.53  Is checkout possible without signing up?
+MISSED     0.56  bina account ke order kar sakte hain?
+MISSED     0.69  Can you ship abroad?
+MISSED     0.27  kya aap videsh mein deliver karte ho?
+MISSED     0.41  Is my area serviceable?
+MISSED     0.71  GST bill kaise milega?
+MISSED     0.43  How long is the guarantee on gadgets?
+MISSED     0.57  Where do I redeem a gift voucher?
+MISSED     0.66  gift card ki expiry kab hoti hai?
+MISSED     0.64  Stop sending me marketing mails
+MISSED     0.46  promotional email band kaise karun?
+MISSED     0.68  Are discounted products returnable?
+MISSED     0.68  sale wala item return ho sakta hai?
+MISSED     0.46  Can I pay in instalments?
+MISSED     0.35  I want to buy 50 pieces
+MISSED     0.62  bulk mein order karna hai
+MISSED     0.64  Are my card details safe with you?
+MISSED     0.48  kya meri card details safe hain?
