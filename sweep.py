@@ -9,6 +9,7 @@ S = Q @ F.T
 top, sim = S.argmax(1), S.max(1)
 labels = [l for _, l in TEST]
 
+
 print("thr   hit_rate  false_hits  total_hits")
 for t in np.arange(0.50, 0.96, 0.05):
     pos = false = 0
@@ -21,7 +22,7 @@ for t in np.arange(0.50, 0.96, 0.05):
     print(f"{t:.2f}  {pos/60:7.0%}  {false:10d}  {pos+false:10d}")
 
 # sweep table dekhne ke baad T badlo
-T = 0.75
+T = 0.60
 print(f"\n--- Problems at threshold {T} ---")
 for i, (q, l) in enumerate(TEST):
     hit = sim[i] >= T
