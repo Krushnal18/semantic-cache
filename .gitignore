@@ -2,4 +2,4 @@ venv/
 semantic-cache/
 __pycache__/
 *.csv
-.env
+.env.vscode/
